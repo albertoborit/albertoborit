@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQEZbT0721bc_Q/profile-displaybackgroundimage-shrink_350_1400/0/1694617175382?e=1701302400&v=beta&t=58FyQl-VI11k0V6WYqMWpEEQxA5ZtmF6GZ9r9Iwd-6M)](https://www.linkedin.com/in/albertoborit/)
-
 <h1 align="center">Hi 👋, I'm Alberto Borit</h1>
 <h3 align="center">A software engineer who loves challenges</h3>
 
